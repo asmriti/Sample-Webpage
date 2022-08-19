@@ -1,0 +1,30 @@
+.footer-section {
+  background-color: #292838;
+  color: white;
+}
+
+.footer-flex {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 5em;
+}
+
+.footer-text {
+  text-align: center;
+  background: #23222f;
+  padding: 10px;
+  margin-top: 20px;
+}
+
+.footer-lists {
+  margin-bottom: 20px;
+}
+
+.footer-lists ul li,
+.text p {
+  margin-top: 6px;
+}
+
+.text {
+  width: 45%;
+}

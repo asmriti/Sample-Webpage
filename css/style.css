@@ -14,3 +14,14 @@ body {
   font-family: "Poppins", sans-serif;
 }
 
+ul li {
+  list-style: none;
+}
+
+.center-button{
+  text-align: center;
+}
+
+button{
+  cursor: pointer;
+}

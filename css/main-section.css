@@ -9,6 +9,10 @@ h2 {
   color: #797979;
 }
 
+.hero-image{
+  text-align: center;
+}
+
 .primary-buttons {
   padding-top: 20px;
 }
