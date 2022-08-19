@@ -1,0 +1,8 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap');
+
+/* CSS files */
+@import url("style.css");
+@import url("navbar.css");
+@import url("hero-section.css");
+@import url("reset.css");

@@ -1,0 +1,29 @@
+/* Navbar */
+
+.logo {
+  width: 191px;
+  height: 45px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+nav ul li {
+  display: inline-block;
+  padding: 20px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  font-weight: 400;
+  color: black;
+}
+
+nav ul li a:hover {
+  padding: 10px 16px;
+  background: #4e42d9;
+  border-radius: 4px;
+  color: white;
+}

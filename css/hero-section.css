@@ -1,0 +1,39 @@
+/* Primary section */
+
+h2 {
+  font-size: 46px;
+}
+
+.hero-section p {
+  padding-top: 10px;
+  color: #797979;
+}
+
+.primary-buttons {
+  padding-top: 20px;
+}
+
+.primary-buttons button {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 17.6px;
+  color: #4e42d9;
+  background: rgba(78, 66, 217, 0.18);
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+}
+
+.primary-buttons button:hover {
+  background: #4e42d9;
+  border-radius: 4px;
+  color: white;
+}
+
+/* Desktop view */
+@media (min-width: 768px) {
+  .primary-section {
+    display: flex;
+    justify-content: space-between;
+  }
+}
