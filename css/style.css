@@ -18,10 +18,11 @@ ul li {
   list-style: none;
 }
 
-.center-button{
+.center-button {
   text-align: center;
 }
 
-button{
+button {
   cursor: pointer;
+  transition: 300ms ease-in-out;
 }

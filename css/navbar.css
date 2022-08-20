@@ -33,6 +33,7 @@ nav ul li a:hover {
   padding: 10px 15px;
   border-radius: 4px;
   font-weight: 500;
+  transition: 300ms ease-in-out;
 }
 
 .contact-btn:hover {

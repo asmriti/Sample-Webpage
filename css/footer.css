@@ -20,6 +20,9 @@
   margin-bottom: 2em;
 }
 
+.footer-lists ul {
+  gap: 89px;
+}
 .footer-lists ul li,
 .text p {
   margin-top: 10px;
@@ -28,3 +31,5 @@
 .text {
   width: 45%;
 }
+
+/* Desktop view */

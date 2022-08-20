@@ -27,11 +27,6 @@ h5 {
 }
 
 .blog-lists {
-  display: flex;
-  justify-content: space-between;
-}
-
-.blog-lists {
   margin-top: 1em;
 }
 
@@ -48,20 +43,20 @@ h5 {
 .blog-section button {
   text-align: center;
   align-items: center;
-  font-weight: 600;
+  font-weight: 550;
   font-size: 16px;
   line-height: 17.6px;
-  color: #4e42d9;
-  background: rgba(78, 66, 217, 0.18);
   padding: 10px 20px;
   border: none;
   border-radius: 4px;
-}
-
-.blog-section button:hover {
   background: #4e42d9;
   border-radius: 4px;
   color: white;
+}
+
+.blog-section button:hover {
+  color: #4e42d9;
+  background: rgba(78, 66, 217, 0.18);
 }
 
 .center-button button {
@@ -75,4 +70,12 @@ h5 {
 
 .dates {
   margin: 6px 0px;
+}
+
+/* Desktop View */
+@media (min-width: 768px) {
+  .blog-lists {
+    display: flex;
+    justify-content: space-between;
+  }
 }
