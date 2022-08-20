@@ -5,7 +5,7 @@ h2 {
 }
 
 .hero-section p {
-  padding-top: 10px;
+  margin-top: 15px;
   color: #797979;
 }
 
@@ -14,7 +14,7 @@ h2 {
 }
 
 .primary-buttons {
-  padding-top: 20px;
+  padding-top: 18px;
 }
 
 .primary-buttons button {

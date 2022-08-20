@@ -17,12 +17,12 @@
 }
 
 .footer-lists {
-  margin-bottom: 20px;
+  margin-bottom: 2em;
 }
 
 .footer-lists ul li,
 .text p {
-  margin-top: 6px;
+  margin-top: 10px;
 }
 
 .text {

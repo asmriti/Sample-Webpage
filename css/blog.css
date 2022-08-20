@@ -2,7 +2,7 @@ h3 {
   font-size: 32px;
   line-height: 45px;
   font-weight: 600;
-  margin-top: 3em;
+  margin-top: 2em;
   text-align: center;
 }
 
@@ -66,4 +66,13 @@ h5 {
 
 .center-button button {
   margin: 3em;
+}
+
+h5 {
+  margin: 5px 0px;
+  font-size: 18px;
+}
+
+.dates {
+  margin: 6px 0px;
 }
