@@ -1,7 +1,9 @@
 /* Primary section */
 
-h2 {
-  font-size: 46px;
+h1 {
+  font-weight: 700;
+  font-size: 38px;
+  color: #3b3950;
 }
 
 .hero-section p {
