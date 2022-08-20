@@ -9,8 +9,17 @@ h2 {
   color: #797979;
 }
 
-.hero-image{
+.banner-text {
+  width: 500px;
+}
+
+.hero-image {
   text-align: center;
+}
+
+.hero-image img {
+  width: 578px;
+  height: 584px;
 }
 
 .primary-buttons {
@@ -39,5 +48,6 @@ h2 {
   .primary-section {
     display: flex;
     justify-content: space-between;
+    align-items: center;
   }
 }

@@ -12,8 +12,8 @@
 .footer-text {
   text-align: center;
   background: #23222f;
-  padding: 10px;
-  margin-top: 20px;
+  padding: 20px;
+  /* margin-top: 20px; */
 }
 
 .footer-lists {
